@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="label_hello">Hello</string>
+    <string name="label_login">Login</string>
+    <string name="label_exit">Exit</string>
+    <string name="label_name" translatable="false">Tomcat</string>
+    <string name="label_BUTTON">BUTTON</string>
+    <string name="label_name2">Hello android</string>
+    <string name="input_tip">Input your name</string>
+    <string name="input_tip1">请输入身高（米）</string>
+    <string name="input_tip2">请输入体重（千克）</string>
+    <string name="label_calculate">计算BMI</string>
+</resources>

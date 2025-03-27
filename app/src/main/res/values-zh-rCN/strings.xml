@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_hello">你好</string>
+    <string name="label_login">登录</string>
+    <string name="label_exit">退出</string>
+</resources>
