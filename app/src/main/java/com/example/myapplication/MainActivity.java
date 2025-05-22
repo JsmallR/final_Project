@@ -14,7 +14,7 @@ import androidx.core.view.WindowInsetsCompat;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String TAG="MainActivity";
+    //private static final String TAG="MainActivity";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -70,3 +70,4 @@ public class MainActivity extends AppCompatActivity {
     }
 
 }
+//新增加了一行
